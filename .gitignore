@@ -1,0 +1,11 @@
+PostHub-Frontend/node_modules/
+PostHub-Frontend/dist/
+demo/target/
+
+.env
+.env.*
+!.env.example
+
+.idea/
+*.iml
+*.log
